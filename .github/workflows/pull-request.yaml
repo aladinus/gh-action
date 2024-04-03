@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: typecript-project
+        working-directory: typescript-project
 
     steps:
       - uses: actions/checkout@v2
